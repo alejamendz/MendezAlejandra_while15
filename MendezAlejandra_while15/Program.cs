@@ -30,4 +30,4 @@ while (opcion != 3)
     }
     Console.WriteLine();
 }
-
+Console.WriteLine("FIN");
